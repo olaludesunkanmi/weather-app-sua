@@ -14,3 +14,6 @@ $ npm install
 Run app
 
 $ npm start
+
+#### Heroku
+https://sunkanmi-weather-app.herokuapp.com/
